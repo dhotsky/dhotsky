@@ -8,13 +8,6 @@
 
 <h3 align="center">Github Stats</h3>
 
-<p align="center">
-   <img src="https://badges.pufler.dev/visits/dhotsky/dhotsky"/> 
-   <img src="https://badges.pufler.dev/gists/dhotsky"/>
-   <img src="https://badges.pufler.dev/repos/dhotsky"/>
-   <img src="https://badges.pufler.dev/commits/all/dhotsky"/>
-</p>
-
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhotsky&layout=compact&langs_count=10&theme=tokyonight" alt="GitHub Stats">
 </div>
